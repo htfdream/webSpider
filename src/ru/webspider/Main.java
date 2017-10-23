@@ -4,7 +4,7 @@ import ru.webspider.support.Spider;
 public class Main {
 
     public static void main(String[] args) {
-        String url = "http://www.rusbonds.ru/ank_obl.asp?tool=";
+        String url = "http://";
         String userAgent1 = "Mozilla/5.1 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.1.782.111 Safari/535.1";
         String userAgent2 = "Mozilla/5.2 (Windows NT 6.2; WOW32) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/13.2.782.112 Safari/535.2";
         String userAgent3 = "Mozilla/5.3 (Windows NT 6.3; WOW64) AppleWebKit/535.3 (KHTML, like Gecko) Chrome/13.3.782.113 Safari/535.3";
